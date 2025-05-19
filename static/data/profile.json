@@ -1,0 +1,115 @@
+{
+	"intro": {
+		"name": "Tharid Chaisongkram",
+		"nickname": "Kwannam",
+		"phone": "063-148-6497",
+		"email": "kwannam5544@gmail.com",
+		"github": "https://github.com/Kwannam",
+		"linkedin": "",
+		"location": "Ayuthaya, Thailand",
+		"website": "https://dev.abdul.in.th/kntr/ddr/ddr.html"
+	},
+	"projects": [
+		{
+			"name": "Doo-Durian",
+			"details": "Doo-Durian is an AI-powered chatbot developed to support durian farmers and enthusiasts with smart agricultural assistance. It combines real-time weather updates, disease diagnosis, and durian market insights into one convenient platform accessible via LINE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     chatbot web application",
+			"url": "https://dev.abdul.in.th/kntr/ddr/ddr.html",
+			"hide": false
+		},
+		{
+			"name": "P’Saendee",
+			"details": "P’Saendee is an advisory chatbot that provides guidance to high school students on project development and innovation.",
+			"url": "garden.narze.live",
+			"hide": false
+		}
+	],
+	"technologies": [
+		{
+			"section": "Languages:",
+			"details": "Python, HTML, CSS, JavaScript, C"
+		},
+		{
+			"section": "Frameworks:",
+			"details": "Fastapi, Pytorch, NumPy, Tenserflow"
+		},
+		{
+			"section": "Tools:",
+			"details": "Git, Docker, GitHub, VSCode, Unity, Postman, Android Studio, Flutter, Roblox Studio, blender "
+		},
+		{
+			"section": "Other:",
+			"details": "Firebase, CloudFlare"
+		}
+	],
+	"workExperiences & Contest": [
+		{
+			"position": "High School Inturn",
+			"company": "National Electronics and Computer Technology Center (NECTEC)",
+			"years": ["Mar 2025", "May 2025"],
+			"details": [
+				"Independently developed UpMath, an AI-powered platform that enables teachers to generate math problems for students, covering dataset collection, model fine-tuning, and website development",
+				"Acted as an advisor to other student interns, offering technical guidance and support",
+				"Served as a teaching assistant (TA) in various training sessions and workshops"
+			]
+		},
+		{
+			"position": "Roblox Game deverloper",
+			"company": "Rider World",
+			"url": "https://www.roblox.com/games/9301186334/Hibiki-Den-O-Rider-World",
+			"years": ["2022", "now"],
+			"details": [
+				"Developed in-game building and environment models",
+				"performed system testing",
+				" provided player support. Conducted user research to understand player needs and managed the game community"
+			]
+		},
+		{
+			"position": "Gold Medal Award",
+			"company": "Japan Design Idea & Innovation Expo 2024",
+			"years": ["2024"],
+			"details": [
+				"Presented the Doo-Durian project to raise public awareness and seek funding support for further development.",
+				"Gained valuable experience and new knowledge about innovation, including exposure to cutting-edge technologies."
+			]
+		},
+		{
+			"position": "Gold Medal Award",
+			"company": "The 27th Young Scientist Competition (YSC 2025)",
+			"years": ["2025"],
+			"details": [
+				"Presented the Doo-Durian project to raise public awareness and seek funding support for further development.",
+				"Gained valuable experience and new knowledge about innovation, including exposure to cutting-edge technologies."
+			]
+		},
+		{
+			"position": "Grand Prize Award",
+			"company": "Projects to develop communities using science, technology, and innovation กล้าใหม่...ใฝ่รู้ Year 19 organized by Siam Commercial Bank (SCB) ",
+			"years": ["2024-2025"],
+			"details": [
+				"Presented the Doo-Durian project to raise public awareness and seek funding support for further development.",
+				"Gained valuable experience and new knowledge about innovation, including exposure to cutting-edge technologies."
+			]
+		},
+		{
+			"position": "Gold Medal Award",
+			"company": "Thailand New Gen Inventors Award",
+			"years": ["2025"],
+			"details": [
+				"Presented the Doo-Durian project to raise public awareness and seek funding support for further development.",
+				"Gained valuable experience and new knowledge about innovation, including exposure to cutting-edge technologies."
+			]
+		}
+	],
+	"educations": [
+		{
+			"head": "Science-Mathematics Program",
+			"details": "Princess Chulabhorn Science High School, Lopburi, TH. 2023-now (GPA 3.93)"
+		}
+	],
+	"interests": [
+		"Areas : Tech Start-up, Coding, Productivity & Life-hacks, business, Finance, AI"
+	],
+	"resumeUrl": {
+		"sourceLink": "https://gitlab.com/kwannam5544/resume"
+	}
+}
